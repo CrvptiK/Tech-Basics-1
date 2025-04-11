@@ -1,6 +1,7 @@
 # Tech-Basics-1
 
 Hello There! 👋
+
 Tech Basics 1 repository for 2nd Semester lecture and exercises. 
 
 This ReadMe file serves as an **introduction** and **table of contents**.
