@@ -13,4 +13,4 @@ This ReadMe file serves as an **introduction** and **table of contents**.
 
 ### Assignments
 
-[1st Session -- ASCII art](assignments/week 1/Assignment 1 ASCII.py)
+[1st Session -- ASCII art]((https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week%201/Assignment%201%20ASCII.py))
