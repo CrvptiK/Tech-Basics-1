@@ -11,6 +11,9 @@ Tech Basics 1 repository for 2nd Semester lecture and exercises.
 
 This ReadMe file serves as an **introduction** and **table of content**.
 
+_Bear witness to me despairing over the Simplest Things and feast yourself upon my Tears of Shame_ :skull:
+
+![Guy sitting in the rain, drinking beer](https://c.tenor.com/sxG4_xVkFbcAAAAC/tenor.gif)
 
 ## Table of Content
 
@@ -24,6 +27,6 @@ This ReadMe file serves as an **introduction** and **table of content**.
 
 Here is your weekly meme!
 
-**Enjoy!**
+**Enjoy!** 
 
 ![Comic strip of a baby saying hello world and the mother realising in horror that it is a programmer](https://i.pinimg.com/736x/8a/73/56/8a73565f1ca0cc882e1572cfa9dd1c42.jpg)
