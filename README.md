@@ -11,9 +11,14 @@ Tech Basics 1 repository for 2nd Semester lecture and exercises.
 
 This ReadMe file serves as an **introduction** and **table of content**.
 
+<br/><br/>
+<br/><br/>
+
 _Bear witness to me despairing over the Simplest Things and feast yourself upon my Tears of Shame_ :skull:
 
-![Guy sitting in the rain, drinking beer](https://c.tenor.com/sxG4_xVkFbcAAAAC/tenor.gif)
+<br/><br/>
+
+![Tenth Doctor Who standing in the rain all sad](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3BkbndpaTZtbnR1Z3Y0a3UxNG0yOGwxcTMxeDF2djFjbGFmYjNnNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jq7y34Hgfy01y/giphy.gif)
 
 ## Table of Content
 
