@@ -27,6 +27,7 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 ### Assignments
 
 [1st Session -- ASCII art](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week1/ascii.py)
+[2nd Session -- Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week2/game.py)
 
 <br/><br/>
 <br/><br/>
@@ -36,4 +37,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Comic strip of a baby saying hello world and the mother realising in horror that it is a programmer](https://i.pinimg.com/736x/8a/73/56/8a73565f1ca0cc882e1572cfa9dd1c42.jpg)
+![Gru presenting his masterplan of writing a recursive function in coding but forgets the exit function and the meme repeats over and over](https://i.pinimg.com/736x/29/19/2c/29192c4f7f23013766754d968620708d.jpg)
