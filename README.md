@@ -27,6 +27,7 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 ### Assignments
 
 [1st Session -- ASCII art](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week1/ascii.py)
+
 [2nd Session -- Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week2/game.py)
 
 <br/><br/>
