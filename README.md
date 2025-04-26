@@ -30,6 +30,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [2nd Session -- Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week2/game.py)
 
+[3rd Session -- ASCII art with User Input](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week3/ascii_art2.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -38,4 +40,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Gru presenting his masterplan of writing a recursive function in coding but forgets the exit function and the meme repeats over and over](https://i.pinimg.com/736x/29/19/2c/29192c4f7f23013766754d968620708d.jpg)
+![Tom the cat jumping up in glee with the text reading "me when I get a new project idea:" and below an image of Tom sitting on train tracks, all broken, with the text "me 5 minutes into coding it:"](https://i.pinimg.com/736x/17/31/23/173123372840340b65fda63f2f9ae483.jpg)
