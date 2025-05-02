@@ -32,6 +32,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [3rd Session -- ASCII art with User Input](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week3/ascii_art2.py)
 
+[4th Session -- Game Revised](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week4/game_revised.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -40,4 +42,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Tom the cat jumping up in glee with the text reading "me when I get a new project idea:" and below an image of Tom sitting on train tracks, all broken, with the text "me 5 minutes into coding it:"](https://i.pinimg.com/736x/17/31/23/173123372840340b65fda63f2f9ae483.jpg)
+![Gru presenting his masterplan: I write the code, I run the code, I have a bug, I have a ~~feature~~ bug](https://i.pinimg.com/736x/ad/4e/37/ad4e3756a7c1a14ae1f1de0f6cf62030.jpg)
