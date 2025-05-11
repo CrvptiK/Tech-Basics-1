@@ -279,10 +279,10 @@ def help_menu():
 
 #game loop go brr
 def game_loop():
-    global current_room  # Use the global current_room variable
+    global current_room
 
-    current_room = "doctor's room"  # Initialize current_room
-    help_menu()  # Display help menu initially
+    current_room = "doctor's room"
+    help_menu()
 
     while True:
         command = input("> ").strip().lower()
