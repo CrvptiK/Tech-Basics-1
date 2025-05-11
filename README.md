@@ -34,6 +34,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [4th Session -- Game Revised](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week4/game_revised.py)
 
+[5th Session -- Adventure Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week5/adventure_game.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -42,4 +44,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Gru presenting his masterplan: I write the code, I run the code, I have a bug, I have a ~~feature~~ bug](https://i.pinimg.com/736x/ad/4e/37/ad4e3756a7c1a14ae1f1de0f6cf62030.jpg)
+![definition of debugging: being the detective in a crime movie where you are also the murderer](https://i.pinimg.com/736x/e8/52/9b/e8529b61056b64e9b576ffa00ca28a54.jpg)
