@@ -36,6 +36,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [5th Session -- Adventure Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week5/adventure_game.py)
 
+[7th Session -- Grade Calculator](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week7/points.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -44,4 +46,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![definition of debugging: being the detective in a crime movie where you are also the murderer](https://i.pinimg.com/736x/e8/52/9b/e8529b61056b64e9b576ffa00ca28a54.jpg)
+![Tom holding a golf club, looking for Jerry, text reads "Me debugging", Jerry standing on the club behind Tom's head. text reading "the bug"](https://i.pinimg.com/736x/d6/63/69/d663699d29356d9cd7161b17a0832de6.jpg)
