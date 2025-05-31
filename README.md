@@ -38,6 +38,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [7th Session -- Grade Calculator](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week7/points.py)
 
+[8th Session -- Animated Image with Pygame](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week8/image_animated.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
