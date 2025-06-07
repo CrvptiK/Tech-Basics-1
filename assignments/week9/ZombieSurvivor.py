@@ -1,5 +1,5 @@
 #%%
-#time:  hours
+#time: 4 hours
 #found a great tutorial by coding with russ, which i will use as a support for this, i will change the code so my game is less of a platformer and more like vampire survivor
 
 import pygame
