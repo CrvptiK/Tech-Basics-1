@@ -50,4 +50,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Dog balancing on cans, with text readin my code, the cans being labeled luck, old repositories, indian guy on youtube, stack overflow and google, boys in the background watching, labeled as development team](https://i.pinimg.com/736x/d6/63/69/d663699d29356d9cd7161b17a0832de6.jpg)
+![Dog balancing on cans, with text readin my code, the cans being labeled luck, old repositories, indian guy on youtube, stack overflow and google, boys in the background watching, labeled as development team](https://i.pinimg.com/736x/81/b6/68/81b668b131e316ff45d4fa2484faaf39.jpg)
