@@ -40,6 +40,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [8th Session -- Animated Image with Pygame](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week8/image_animated.py)
 
+[9th Session -- New Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week9/ZombieSurvivor.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -48,4 +50,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Tom holding a golf club, looking for Jerry, text reads "Me debugging", Jerry standing on the club behind Tom's head. text reading "the bug"](https://i.pinimg.com/736x/d6/63/69/d663699d29356d9cd7161b17a0832de6.jpg)
+![Dog balancing on cans, with text readin my code, the cans being labeled luck, old repositories, indian guy on youtube, stack overflow and google, boys in the background watching, labeled as development team](https://i.pinimg.com/736x/d6/63/69/d663699d29356d9cd7161b17a0832de6.jpg)
