@@ -42,6 +42,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [9th Session -- New Game](https://github.com/CrvptiK/Tech-Basics-1/blob/main/assignments/week9/ZombieSurvivor.py)
 
+[10th Session -- Environment Creation](https://github.com/CrvptiK/Tech-Basics-1/tree/main/assignments/week10)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -50,4 +52,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![Dog balancing on cans, with text readin my code, the cans being labeled luck, old repositories, indian guy on youtube, stack overflow and google, boys in the background watching, labeled as development team](https://i.pinimg.com/736x/81/b6/68/81b668b131e316ff45d4fa2484faaf39.jpg)
+![my programming written over an almost collapsing wall, held up by beams titled chatgpt, stack overflowing, github and youtube](https://i.pinimg.com/736x/71/17/49/71174955d3dee4060d32d72ff8d78816.jpg)
