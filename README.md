@@ -44,6 +44,8 @@ _Bear witness to me despairing over the Simplest Things and feast yourself upon 
 
 [10th Session -- Environment Creation](https://github.com/CrvptiK/Tech-Basics-1/tree/main/assignments/week10)
 
+[12th Session -- Final Assignment Draft WIP](https://github.com/CrvptiK/Tech-Basics-1/tree/main/assignments/week12/draft.py)
+
 <br/><br/>
 <br/><br/>
 <br/><br/>
@@ -52,4 +54,4 @@ Here is your weekly meme!
 
 **Enjoy!** 
 
-![my programming written over an almost collapsing wall, held up by beams titled chatgpt, stack overflowing, github and youtube](https://i.pinimg.com/736x/71/17/49/71174955d3dee4060d32d72ff8d78816.jpg)
+![iceberg, most of it under water, above water reading "4 lines of code", while below saying "40000 lines of thought](https://i.pinimg.com/736x/69/b6/98/69b698421f05de97ba6c8ab718aa709d.jpg)
